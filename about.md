@@ -1,13 +1,15 @@
 ---
 layout: page
-title: About
+title: "About | Keval Malde"
+description: "About Keval Malde, a telecom systems engineer working on 5G RAN software, MAC-layer features, and deployment performance optimization."
+keywords: "About Keval Malde, telecom engineer profile, 5G RAN software, MAC scheduler optimization, cloud RAN research"
 permalink: /about/
 ---
 
-I am a telecom-focused systems engineer with hands-on experience across 5G RAN
-software development, system integration, and performance optimization. I enjoy
-building proof-of-concepts and turning them into practical, measurable
-improvements in real deployments.
+I am a telecom systems engineer with hands-on experience across 5G RAN software
+development, system integration, and performance optimization. I enjoy building
+proof-of-concepts and turning them into practical, measurable improvements in
+real deployments.
 
 ## Background
 

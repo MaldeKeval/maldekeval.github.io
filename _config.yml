@@ -1,8 +1,10 @@
 # Jekyll / GitHub Pages project site
-title: Keval Malde
+title: Keval Malde | Telecom Systems Engineer
 description: >-
-  Telecom systems engineer || Automation enthusiast || IITian 
+  5G RAN software engineer focused on telecom systems, performance
+  optimization, and practical network automation.
 url: "https://maldekeval.github.io"
+lang: en
 
 # Author
 author: Keval Ashok Malde
@@ -11,6 +13,11 @@ email: maldekeval@gmail.com
 # Minima 2.x (matches typical github-pages gem) — social footer icons
 github_username: kevalMalde
 linkedin_username: maldekeval
+social:
+  name: Keval Ashok Malde
+  links:
+    - https://github.com/kevalMalde
+    - https://www.linkedin.com/in/maldekeval/
 
 # Build
 theme: minima

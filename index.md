@@ -1,6 +1,9 @@
 ---
 layout: page
-title: "I am the one who codes"
+title: "Keval Malde | 5G RAN Software Engineer"
+description: "Telecom systems engineer specializing in 5G RAN software, MAC-layer development, performance optimization, and network automation."
+keywords: "Keval Malde, 5G RAN engineer, telecom systems engineer, MAC layer development, network performance optimization, RAN automation"
+permalink: /
 ---
 
 <div class="page-intro" markdown="0">
@@ -13,8 +16,8 @@ title: "I am the one who codes"
       loading="lazy" />
   </figure>
   <p>
-    I am a telecom systems engineer focused on 5G RAN software, performance
-    engineering, and practical protocol development.
+    I am a 5G RAN software engineer focused on telecom systems performance,
+    MAC-layer protocol development, and practical network optimization.
   </p>
   <p>
     I work on MAC-layer feature development in C, RAN parameter tuning for
@@ -31,7 +34,7 @@ title: "I am the one who codes"
 <a class="link-pill" href="https://newslab.iith.ac.in/people_pages/keval.html">IITH page</a>
 <a class="link-pill" href="mailto:maldekeval@gmail.com">Email</a>
 
-## Projects
+## 5G RAN projects
 
 - **5G Testbed** — experimental 5G networking and RAN work at the lab
 - **CCRAN** — converged cloud RAN: cloud radio access, split processing, and related system studies
