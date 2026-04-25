@@ -42,6 +42,3 @@ configurations that preserve KPIs under different traffic patterns.
 - **Additional contributions:** Patent-pending work on dynamic functional split selection in cloud RAN and open-source work on FlexRIC RRC statistics monitoring
 
 - **Lab profile (official):** [IITH News Lab — Keval](https://newslab.iith.ac.in/people_pages/keval.html)
-
-This site is hosted with [GitHub Pages](https://pages.github.com/) and built with
-[Jekyll](https://jekyllrb.com/) and the [Minima](https://github.com/jekyll/minima) theme.

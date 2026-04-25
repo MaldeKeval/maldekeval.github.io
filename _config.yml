@@ -1,10 +1,9 @@
 # Jekyll / GitHub Pages project site
 title: Keval Malde
 description: >-
-  MTech scholar at IIT Hyderabad. Research in converged cloud RAN (CCRAN) and
-  5G systems.
+  Telecom systems engineer || Automation enthusiast || IITian 
 url: "https://maldekeval.github.io"
-baseurl: "/portfolio"
+baseurl: "/"
 
 # Author
 author: Keval Ashok Malde
