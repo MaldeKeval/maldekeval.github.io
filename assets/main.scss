@@ -1,0 +1,48 @@
+---
+# Only the main style file must include front matter (Jekyll 4 + Minima 2.5+)
+---
+
+@import "minima";
+
+// Hero area on the home page
+.page-intro {
+  margin-bottom: 2rem;
+  overflow: auto; /* contain floated figure */
+}
+
+.profile-figure {
+  float: right;
+  max-width: 220px;
+  margin: 0 0 1rem 1.5rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .profile-figure {
+    float: none;
+    max-width: 200px;
+    margin: 0 auto 1.5rem;
+  }
+}
+
+.link-pill {
+  display: inline-block;
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  padding: 0.2rem 0.65rem;
+  font-size: 0.9em;
+  border: 1px solid $grey-color-light;
+  border-radius: 999px;
+  text-decoration: none;
+}
+
+.link-pill:hover,
+.link-pill:focus {
+  border-color: $brand-color;
+  text-decoration: none;
+}

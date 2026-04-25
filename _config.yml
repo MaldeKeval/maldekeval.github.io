@@ -1,0 +1,42 @@
+# Jekyll / GitHub Pages project site
+title: Keval Malde
+description: >-
+  MTech scholar at IIT Hyderabad. Research in converged cloud RAN (CCRAN) and
+  5G systems.
+url: "https://maldekeval.github.io"
+baseurl: "/portfolio"
+
+# Author
+author: Keval Ashok Malde
+email: maldekeval@gmail.com
+
+# Minima 2.x (matches typical github-pages gem) — social footer icons
+github_username: kevalMalde
+linkedin_username: maldekeval
+
+# Build
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Minima: top navigation
+header_pages:
+  - about.md
+
+# jekyll-feed
+feed:
+  posts_limit: 5
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
