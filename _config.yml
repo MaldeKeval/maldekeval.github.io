@@ -21,6 +21,7 @@ plugins:
 
 # Minima: top navigation
 header_pages:
+  - index.md
   - about.md
 
 # jekyll-feed
